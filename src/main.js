@@ -1,3 +1,5 @@
+`use strict`
+
 const filters = [`All`, `Overdue`, `Today`, `Favorites`, `Repeating`, `Tags`, `Archive`];
 
 const getRandomInteger = function (min, max) {
